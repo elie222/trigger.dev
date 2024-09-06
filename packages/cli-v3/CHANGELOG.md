@@ -1,5 +1,21 @@
 # trigger.dev
 
+## 3.0.0-beta.57
+
+### Patch Changes
+
+- f9ec66c56: New Build System
+- f04041744: Fix entry point paths on windows
+- f04041744: Support custom config file names & paths
+- f04041744: Support for custom conditions
+- Updated dependencies [f9ec66c56]
+- Updated dependencies [f7d32b83b]
+- Updated dependencies [e30beb779]
+- Updated dependencies [f9ec66c56]
+- Updated dependencies [f04041744]
+  - @trigger.dev/core@3.0.0-beta.57
+  - @trigger.dev/build@3.0.0-beta.57
+
 ## 3.0.0-beta.55
 
 ### Patch Changes

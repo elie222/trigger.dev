@@ -1,5 +1,14 @@
 # internal-platform
 
+## 3.0.0-beta.57
+
+### Patch Changes
+
+- f9ec66c56: New Build System
+- f7d32b83b: Removed the folder/filepath from Attempt spans
+- e30beb779: Added support for custom esbuild plugins
+- f04041744: Support for custom conditions
+
 ## 3.0.0-beta.55
 
 ## 3.0.0-beta.54
